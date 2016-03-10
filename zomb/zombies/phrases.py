@@ -18,7 +18,11 @@ ZOMBIE_TYPES = [
     "yellow",
     "smelly",
     "sexy",
-
+    "crawling",
+    "remoseful",
+    "honest",
+    "classic",
+    "middle-class"
 ]
 
 ZOMBIE_HOMETOWNS = [
